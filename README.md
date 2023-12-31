@@ -28,3 +28,9 @@ Edit `sign.js` and run it `node sign.js`.
 Copy the result of `sign.js` and edit `verify.js` by pasting it and run it `node verify.js` to verify the event.
 
 Paste the result of `sign.js` to `publish.js` and run it `node publish.js`.
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (C) 2024 ka
