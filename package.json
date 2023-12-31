@@ -10,5 +10,10 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^3.1.1"
+  },
+  "dependencies": {
+    "luxon": "^3.4.4",
+    "nostr-tools": "^2.1.1",
+    "websocket-polyfill": "^0.0.3"
   }
 }
